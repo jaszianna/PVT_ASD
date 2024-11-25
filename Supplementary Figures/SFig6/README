@@ -1,0 +1,1 @@
+load_open_ephys_data is using the Cellbase Matlab Package with modifications of Balázs Hangya lab (The modified package is available on the webpage of Balázs Hangya)
